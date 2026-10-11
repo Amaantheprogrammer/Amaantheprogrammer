@@ -36,7 +36,7 @@
 
 ### 🚀 Featured Projects
 
-#### 1. [Swift Cary Backend](https://github.com/Amaantheprogrammer/E-CommerceBackendProject) 
+#### 1. [Swift Cart Backend](https://github.com/Amaantheprogrammer/E-CommerceBackendProject) 
 * **Live Demo:** [Check it out on Render](https://e-commercebackendproject.onrender.com/)
 * **Tech:** Java, Spring Boot, Spring Security, JWT, JPA/Hibernate, MySQL, Redis, Docker
 * **Highlights:** Built a multi-module e-commerce backend exposing 40+ REST APIs; integrated Redis caching to cut product lookup latency by **97.3%** (534ms to 14ms) and implemented secure inter-service REST communication with a banking module.
