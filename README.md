@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Amaan Coatwala 👋</h1>
-  <h3>Junior Backend Engineer | Java & Spring Boot Specialist</h3>
+  <h3>Software Engineer | Java & Spring Boot | React.js</h3>
   
   <p>
     <a href="https://www.linkedin.com/in/amaan-coatwala/">
