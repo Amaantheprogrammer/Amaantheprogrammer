@@ -18,9 +18,9 @@
 ---
 
 ### 💻 About Me
-* 🌱 I'm a Computer Engineering graduate specialized in building scalable, secure backend systems and distributed enterprise applications.
-* ⚡ Core Tech Stack: **Java, Spring Boot, Spring Security, Hibernate, MySQL, PostgreSQL, and Redis**.
-* 🧠 Passionate about algorithmic problem-solving with **400+ problems solved on LeetCode**.
+* 🌱 I'm a Computer Engineering graduate specialized in building scalable, secure systems and distributed enterprise applications.
+* ⚡ Core Tech Stack: **Java, Spring Boot, Spring Security, Hibernate, MySQL, PostgreSQL, and Redis, React.js**.
+* 🧠 Passionate about algorithmic problem-solving with **420+ problems solved on LeetCode**.
 * 📫 How to reach me: amaancoatwala@gmail.com
 
 ---
@@ -29,6 +29,7 @@
 
 * **Languages:** Java, JavaScript, Python
 * **Backend Frameworks:** Spring Boot, Spring Security, Hibernate, Spring Data JPA
+* **Frontend Framework:** React.js
 * **Databases & Caching:** MySQL, PostgreSQL, Redis
 * **DevOps & Tools:** Docker, Docker Compose, Git, Maven, IntelliJ IDEA, Postman / Thunder Client
 
@@ -36,7 +37,7 @@
 
 ### 🚀 Featured Projects
 
-#### 1. [Swift Cart Backend](https://github.com/Amaantheprogrammer/E-CommerceBackendProject) 
+#### 1. [Swift Cart Backend](https://github.com/Amaantheprogrammer/swiftcart-backend) 
 * **Live Demo:** [Check it out on Render](https://e-commercebackendproject.onrender.com/)
 * **Tech:** Java, Spring Boot, Spring Security, JWT, JPA/Hibernate, MySQL, Redis, Docker
 * **Highlights:** Built a multi-module e-commerce backend exposing 40+ REST APIs; integrated Redis caching to cut product lookup latency by **97.3%** (534ms to 14ms) and implemented secure inter-service REST communication with a banking module.
