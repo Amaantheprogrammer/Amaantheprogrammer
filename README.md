@@ -54,10 +54,3 @@
   * Fixed an $N+1$ query performance bottleneck by refactoring data access logic with custom JPQL `JOIN FETCH` queries, drastically reducing redundant database round-trips.
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amaantheprogrammer&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaantheprogrammer&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
