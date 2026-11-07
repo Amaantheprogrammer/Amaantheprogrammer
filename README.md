@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Amaan Coatwala 👋</h1>
-  <h3>Software Developer | Java & Spring Boot | React.js</h3>
+  <h3>Backend & Systems Engineer | Java, Spring Boot & Python | Distributed Microservices & GenAI</h3>
   
   <p>
     <a href="https://www.linkedin.com/in/amaan-coatwala/">
@@ -18,39 +18,44 @@
 ---
 
 ### 💻 About Me
-* 🌱 I'm a Computer Engineering graduate specialized in building scalable, secure systems and distributed enterprise applications.
-* ⚡ Core Tech Stack: **Java, Spring Boot, Spring Security, Hibernate, MySQL, PostgreSQL, and Redis, React.js**.
-* 🧠 Passionate about algorithmic problem-solving with **420+ problems solved on LeetCode**.
-* 📫 How to reach me: amaancoatwala@gmail.com
+- 🌱 I'm a Computer Engineering graduate specialized in building scalable, secure backend systems, distributed architectures, and AI-powered microservices.
+- ⚡ Core Tech Stack: **Java, Spring Boot, Spring Security, Python, FastAPI, LangChain, RAG, MySQL, PostgreSQL, Redis, and React.js**.
+- 🧠 Passionate about algorithmic problem-solving with **420+ problems solved on LeetCode**.
+- 📫 How to reach me: amaancoatwala@gmail.com
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-* **Languages:** Java, JavaScript, Python
-* **Backend Frameworks:** Spring Boot, Spring Security, Hibernate, Spring Data JPA
-* **Frontend Framework:** React.js
-* **Databases & Caching:** MySQL, PostgreSQL, Redis
-* **DevOps & Tools:** Docker, Docker Compose, Git, Maven, IntelliJ IDEA, Postman / Thunder Client
+- **Languages:** Java, JavaScript, Python
+- **Backend Frameworks:** Spring Boot, Spring Security, Hibernate, Spring Data JPA, FastAPI
+- **AI & GenAI:** LangChain, RAG (Retrieval-Augmented Generation), LLMs, Prompt Engineering
+- **Frontend Framework:** React.js
+- **Databases & Caching:** MySQL, PostgreSQL, Redis
+- **DevOps & Tools:** Docker, Docker Compose, Git, Maven, IntelliJ IDEA, VS Code, Postman / Thunder Client
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 1. [Swift Cart Backend](https://github.com/Amaantheprogrammer/swiftcart-backend) 
-* **Live Demo:** [Check it out on Render](https://e-commercebackendproject.onrender.com/)
-* **Tech:** Java, Spring Boot, Spring Security, JWT, JPA/Hibernate, MySQL, Redis, Docker
-* **Highlights:** Built a multi-module e-commerce backend exposing 40+ REST APIs; integrated Redis caching to cut product lookup latency by **97.3%** (534ms to 14ms) and implemented secure inter-service REST communication with a banking module.
+#### 1. Swiftcart Ecosystem (Full-Stack & Microservices)
+- **Repositories:** 
+  - [swiftcart-backend](https://github.com/Amaantheprogrammer/swiftcart-backend) (Java / Spring Boot)
+  - [swiftcart-ai](https://github.com/Amaantheprogrammer/swiftcart-ai) (Python / FastAPI / GenAI)
+  - [swiftcart-frontend](https://github.com/Amaantheprogrammer/swiftcart-frontend) (React.js)
+- **Live Deployments:** [Frontend App (Vercel)](https://swiftcart-app.vercel.app/) | [Core API (Render)](https://e-commercebackendproject.onrender.com/)
+- **Highlights:** 
+  - Engineered a distributed e-commerce platform featuring a multi-module Java backend exposing 40+ REST APIs for Auth, User, Product, Category, Cart, Order, and Wishlist modules.
+  - Built a dedicated GenAI microservice using Python, FastAPI, and LangChain to provide context-aware product recommendations and intelligent customer query resolution over catalog data.
+  - Slashing product retrieval latency by **97.3%** (534ms to 14ms) using Redis caching, and implemented Spring `RestClient` inter-service handshakes for automated bank transfer verification.
 
-#### 2. [Digital Banking System Backend](https://github.com/Amaantheprogrammer/DigitalBankingSystem)
-* **Tech:** Java, Spring Boot, Spring Security, JWT, MySQL, Redis, Docker, OpenAPI
-* **Highlights:** Developed 25+ secure REST APIs handling user onboarding, fund transfers, and fraud monitoring with token blacklisting, transaction idempotency controls, and centralized error handling.
+#### 2. [Vortexpay (Digital Banking System Backend)](https://github.com/Amaantheprogrammer/vortexpay-backend)
+- **Tech:** Java, Spring Boot, Spring Security, JWT, MySQL, Redis, Docker, OpenAPI
+- **Highlights:** Developed an enterprise-grade banking engine with 25+ secure REST APIs handling user onboarding, account management, fund transfers, transaction idempotency, token blacklisting, and fraud monitoring.
 
 ---
 
 ### 🌟 Open Source Contributions
 
-* **[Threat Incident Management](https://github.com/Pranav-0440/threat-incident-management)**
+- **[Threat Incident Management](https://github.com/Pranav-0440/threat-incident-management)**
   * Fixed an $N+1$ query performance bottleneck by refactoring data access logic with custom JPQL `JOIN FETCH` queries, drastically reducing redundant database round-trips.
-
----
