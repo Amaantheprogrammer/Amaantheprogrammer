@@ -12,7 +12,7 @@ Building secure systems, scalable APIs, and AI-powered applications.
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/amaantheprogrammer/">
-  <img src="https://img.shields.io/badge/LeetCode-420%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-440%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 <a href="mailto:amaancoatwala@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
