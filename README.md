@@ -33,7 +33,7 @@ My primary interests lie in backend development, API design, distributed systems
 - 🔭 **Currently building:** Swift Cart, an e-commerce ecosystem with a Java backend, React frontend, and Python-based AI assistant.
 - 💻 **Backend focus:** Java, Spring Boot, Spring Security, REST APIs, Hibernate, and distributed systems.
 - 🤖 **Exploring:** Generative AI, RAG pipelines, vector databases, and tool-using AI agents.
-- 🧠 **Problem solving:** 420+ problems solved on LeetCode.
+- 🧠 **Problem solving:** 440+ problems solved on LeetCode.
 - 🌱 **Currently learning:** Designing reliable AI agents that interact with real-world backend systems.
 - 📍 **Location:** Mumbai, India.
 
