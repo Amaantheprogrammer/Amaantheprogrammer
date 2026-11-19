@@ -170,7 +170,7 @@ My primary interests lie in backend development, API design, distributed systems
   <img src="https://leetcard.jacoblin.cool/amaantheprogrammer?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Profile" />
 </a>
 
-**420+ problems solved and continuously improving.**
+**440+ problems solved and continuously improving.**
 
 </div>
 
