@@ -47,7 +47,7 @@ My primary interests lie in backend development, API design, distributed systems
 |:---|:---|
 | **Languages** | Java, Python, JavaScript |
 | **Backend Development** | Spring Boot, Spring Security, Spring Data JPA, Hibernate, FastAPI, REST APIs |
-| **Generative AI** | LangChain, RAG, LLM Integration, Prompt Engineering, Vector Search |
+| **Generative AI** | LangChain, RAG, LLM Integration, Prompt Engineering, Vector Search, Agentic AI |
 | **Databases & Caching** | MySQL, PostgreSQL, Redis, ChromaDB |
 | **Frontend** | React.js |
 | **DevOps & Tools** | Docker, Docker Compose, Git, GitHub, Maven, Postman |
